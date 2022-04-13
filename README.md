@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**gessicaminski/gessicaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Olá! Eu sou a Géssida de Lara Minski.  /  Hi! My name is Géssida de Lara Minski. 👋
 
 - Atualmente sou estudante de Análise e desenvolvimeto de sistemas. Minha formação inicial é Bacharel em Ciências Biológicas
